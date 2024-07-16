@@ -152,13 +152,13 @@ inserted a rectangle from elements and place amazon logo on left side and two bl
 
 # Snapshot of Dashboard (Power BI Service)
 
-![Screenshot 2024-07-15 153608](https://github.com/user-attachments/assets/a61399e4-7dbb-4a01-b105-75cee1e5f1df)
+![Screenshot 2024-07-15 153608](https://github.com/user-attachments/assets/cacdaa11-8d31-4ca8-b2aa-de97b9ddef30)
 
  
  # Report Snapshot (Power BI DESKTOP)
 
  
-![Screenshot 2024-07-15 153641](https://github.com/user-attachments/assets/74736836-f221-48a1-9cb1-af5c52378000)
+![Screenshot 2024-07-15 153641](https://github.com/user-attachments/assets/a41d1437-5e99-47c2-9925-e7190d24c7b9)
 
 # Insights
 
