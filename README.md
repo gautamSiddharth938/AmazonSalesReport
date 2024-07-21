@@ -1,6 +1,6 @@
 # AmazonSalesReport
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
+### Dashboard Link : https://app.powerbi.com/groups/me/reports/0b488ad2-2d2a-4e31-acb8-069a16fbd15c/c76ac38ce7b5bb46e9bd?experience=power-bi&bookmarkGuid=1ae3711a58eb8060a45c
 
 ## Problem Statement
 
@@ -147,18 +147,22 @@ inserted a rectangle from elements and place amazon logo on left side and two bl
 
  - Step 33 : The report was then published to Power BI Service.
  
+# Publish Message 
  
-![Publish_Message](https://user-images.githubusercontent.com/102996550/174094520-3a845196-97e6-4d44-8760-34a64abc3e77.jpg)
+![hgh](https://github.com/user-attachments/assets/041a5b19-3355-4caa-905c-4a4a1045e18f)
 
 # Snapshot of Dashboard (Power BI Service)
 
 ![Screenshot 2024-07-15 153608](https://github.com/user-attachments/assets/cacdaa11-8d31-4ca8-b2aa-de97b9ddef30)
 
+![Screenshot 2024-07-15 153641](https://github.com/user-attachments/assets/a41d1437-5e99-47c2-9925-e7190d24c7b9)
  
  # Report Snapshot (Power BI DESKTOP)
 
- 
-![Screenshot 2024-07-15 153641](https://github.com/user-attachments/assets/a41d1437-5e99-47c2-9925-e7190d24c7b9)
+ ![yhn](https://github.com/user-attachments/assets/874e9942-70c1-43d1-9537-ef63ade956a9)
+
+ ![ujm](https://github.com/user-attachments/assets/1b51937d-c359-49e3-a8e6-75f85e1d4a9b)
+
 
 # Insights
 
@@ -183,4 +187,3 @@ Following inferences can be drawn from the dashboard;
   These Totals will change if different visual filters will be applied.  
  
  
-
